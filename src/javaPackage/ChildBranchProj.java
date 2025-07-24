@@ -6,6 +6,8 @@ public class ChildBranchProj {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello child branch");
+		
+		System.out.println("New Statement");
 
 	}
 
